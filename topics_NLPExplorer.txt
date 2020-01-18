@@ -1,0 +1,151 @@
+# Linguistic Target of Study
+Discourse
+Pragmatics
+Lexical semantics
+Distributional semantics
+Embeddings
+Formal semantics
+Propositional semantics
+Event semantics
+Extra-propositional semantics
+Grounded semantics
+Ontologies
+Syntax
+Morphology
+Phonology
+Phonetics
+Prosody
+Gesture
+Code mixing
+code switching
+Multilingualism
+Sociolinguistic variation
+Language change
+Typology
+Neurolinguistics
+cognitive linguistics
+psycholinguistics
+
+
+# Application Task: What do you work on?
+Language understanding
+Corpus development
+corpus annotation
+Language identification
+Morphological analysis
+Tagging
+Chunking
+Syntactic parsing
+Semantic parsing
+Discourse parsing
+Word sense disambiguation
+Named entity recognition
+Textual entailment
+Semantic similarity
+Information extraction
+Information retrieval
+Relation extraction
+Sentiment analysis
+Emotion detection
+Event detection
+Time normalization
+Question answering
+Knowledge acquisition
+Coreference resolution
+Dialog structure
+Conversation analysis
+Language generation
+Summarization
+machine translation
+Paraphrasing
+Text simplification
+Determining discourse relations
+text organization
+argumentation mining
+Dialogue and interactive systems
+Image description generation
+video description generation
+Belief analysis
+factuality analysis
+modality analysis
+irrealis analysis
+ASR
+spoken language processing
+OCR
+Word segmentation
+Text categorization
+Spelling correction
+Text quality prediction
+Style analysis
+Predicting speaker characteristics
+Authorship attribution
+Native language identification
+Lexicon and paraphrase induction
+Mathematical models
+Biomedical
+social science
+Ethics
+Multimodal systems
+Modeling human language processing
+computational psycholinguistics
+Modeling human language acquisition
+
+# Approaches: How are you working on it? 
+Multilingual resources
+Modeling linguistic knowledge 
+Algorithm development 
+Data analysis 
+User evaluation
+Crowd sourcing
+human computation
+Topic modeling
+Deep learning
+Bayesian model
+Kernel method
+Structured prediction
+Generative model
+Discriminative model
+Graphical model
+Representation learning
+Semi-supervised learning
+Unsupervised learning
+
+
+# Your data: Languages
+Multilingual
+Chinese
+Indian
+English 
+French
+Japanese
+Arabic
+Hebrew
+Semitic
+Low-Resource Languages
+Signed Languages
+Child language
+
+# Your data: Genres 
+Scientific literature
+Literary text
+News
+Encyclopedia
+Biographies
+Written dialog 
+Chat 
+Social media
+Non-private unedited text 
+Twitter
+blogs
+Spoken dialog
+Child-directed speech
+child language
+Other spoken genres
+human-computer interaction 
+query logs
+Biomedical texts
+Non-biomedical scholarly texts
+Legal documents 
+legal opinions
+Clinical notes
+Web crawl
